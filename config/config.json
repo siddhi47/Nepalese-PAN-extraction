@@ -1,0 +1,16 @@
+{
+  "logging_level": "DEBUG",
+  "enable_screen_log": "yes",
+
+  "connection": {
+    "mysql": {
+      "drivername": "mysql+mysqldb",
+      "username": "siddhi",
+      "password": "siddhi@123",
+      "host": "192.168.0.107",
+      "port": "3306",
+      "database":"OCR_DB",
+      "charset": "utf8"
+    }
+  }
+}
